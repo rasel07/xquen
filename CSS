@@ -1,0 +1,735 @@
+ .language3 {
+    display: flex;
+    color: red;
+    position: absolute;
+    z-index: 999;
+    bottom: 20px;
+    /* float: right; */
+    flex-wrap: wrap;
+    /* text-align: right; */
+    width: 100%;
+    justify-content: flex-end;
+    align-items: flex-end;
+    height: 100%;
+    right: 0px;
+}
+
+/* Mega menue */
+.fe-block.fe-block-yui_3_17_2_1_1702533453998_17821 p{
+   font-family: 'Brown Regular', sans-serif !important;
+    font-size: 18px;
+}
+.language2{
+  display: none ;
+}
+
+.fe-block.fe-block-023c69f83159372ec3ee p{
+   font-family: 'Brown Regular', sans-serif !important;
+    font-size: 18px;
+}
+.fe-block.fe-block-e47816997ce3d058b4ad p{
+   font-family: 'Brown Regular', sans-serif !important;
+    font-size: 18px;
+}
+.fe-block.fe-block-3cbae5f230111d277d8d {border-left: 1px solid #135c99;
+    padding-left: 20px;}
+.fe-block.fe-block-3cbae5f230111d277d8d
+ 
+   p{
+   font-family: 'Brown Regular', sans-serif !important;
+    font-size: 18px;
+     
+
+  a:hover{color: #2e99f4 !important;}
+
+  }
+.fe-block.fe-block-yui_3_17_2_1_1702533453998_17821 {
+    border-left: 1px solid #135c99;
+    padding-left: 20px;
+ 
+}
+.fe-block.fe-block-yui_3_17_2_1_1702533453998_17821 a:hover{color: #2e99f4 !important;}
+
+.fe-block.fe-block-023c69f83159372ec3ee {
+    border-left: 1px solid #135c99;
+    padding-left: 20px;
+}
+
+.fe-block.fe-block-023c69f83159372ec3ee a:hover{color: #2e99f4 !important;}
+
+.fe-block.fe-block-e47816997ce3d058b4ad {
+    border-left: 1px solid #135c99;
+    padding-left: 20px;
+}
+.fe-block.fe-block-e47816997ce3d058b4ad
+a:hover{color: #2e99f4 !important;}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .sqs-button-element--primary:not(input):hover {color: #000}
+
+/**
+* Force Menu Background
+* On Mega Menu Open
+**/
+.wm-mega-menu-plugin [data-header-style="dynamic"].header:not(:has(.wm-mega-menu[data-layout="inset"])) .header-announcement-bar-wrapper {
+  transition: background-color 300ms ease 0ms;
+}
+.wm-mega-menu--open [data-header-style="dynamic"].header:not(:has(.wm-mega-menu[data-layout="inset"])) .header-announcement-bar-wrapper {
+  background-color: var(--siteBackgroundColor);
+}
+
+
+body.homepage h1.section-label.homepage-h1 {
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 1.3rem !important;
+  color: #0B4F88 !important;
+  line-height: normal !important;
+  margin: 0 !important;
+}
+@media only screen and (max-width: 799px) {
+  body.homepage h1.section-label.homepage-h1 {
+    font-size: 1.1rem !important;
+  }
+}
+footer#footer-sections {
+    display: none;
+}
+body.homepage h1.section-label.homepage-h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: #0B4F88;
+  line-height: normal;
+  margin: 0;
+}
+@media only screen and (max-width: 799px) {
+  body.homepage h1.section-label.homepage-h1 {
+    font-size: 1.1rem;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+/* CSS By raselkabir.me */
+.language {
+  color: #fff; /* Ändern Sie die Farbe auf Weiß (#fff) */
+  position: absolute;
+  top: 57px;
+  right: 3%;
+  z-index: 99999;
+}
+
+.header .header-title--use-mobile-logo .header-mobile-logo img {
+    //position: relative;
+    //top: 2px;
+}
+
+.header-title-logo img {
+    margin-top: 5px;}
+div#block-yui_3_17_2_1_1702573038682_29320 button {
+    background-image: url('https://static1.squarespace.com/static/6579ea596d87561b509cf32f/t/657bcbec89d4ed2215376535/1702611948051/download-con.png') ;
+    background-color: #000;
+  background-position: center;
+  border: none;
+  background-size: 25px;
+   background-repeat: no-repeat;
+  padding: none !important;
+z-index: 999999;
+margin-right: 5%;
+  display: inherit;
+   }
+
+
+
+
+@media (hover: hover){
+#block-yui_3_17_2_1_1702573038682_29320 .sqs-button-element--primary:not(input)::before 
+  {
+  background: unset;
+    border: unset;
+}
+}
+
+
+div#block-yui_3_17_2_1_1702573038682_29320 button  {
+
+   padding: 16px 15px !important;
+    width: 35px;
+    height: 35px 
+}
+
+.header-menu-nav-item a {
+  font-size: 19px;
+  text-align: left;
+  line-height: 1.8;
+  font-weight: 700;
+color: #000
+}
+.header-nav a {
+    font-family: 'Brown Regular', sans-serif !important;
+  font-size: 18px;
+}
+
+.header-menu-nav-folder-content {
+    justify-content: flex-start;}
+
+
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 50% 50%;	    
+}
+.img-txt{
+  width:80px;
+  height: 70px;
+   background-image: url("https://images.squarespace-cdn.com/content/v1/6579ea596d87561b509cf32f/1702488757142-5LV0UDOIWGBGSCCDBV76/m-a-prozess-icon.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+      position: relative;
+  left: -50px;
+  
+  span {font-size: 25px; color:  #033865; font-weight: 900;}
+}
+.wrapper2 {
+  display: grid;
+  grid-template-columns: 15% 88%;	
+  align-items: center;
+      padding-bottom: 20px;
+  padding-top: 20px;
+  //display: flex;
+    //align-items: center;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.wrapper2 h3{font-family:'Reckless Medium',sans-serif; color: #024883}
+
+
+
+.box {
+    color: #000;
+    background-color: #444;
+	padding: 1em;
+	margin: 40px 40px;
+    margin-top: 0;
+  margin-bottom: 80px;
+    background-color: #ffffff; /* Hintergrundfarbe der Box */
+    border-radius: 10px; /* Runde Ecken */
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1); /* Schatten-Effekt */	
+}
+
+
+
+.container {}
+@font-face {
+font-family: 'Reckless Medium';
+src: url('https://static1.squarespace.com/static/6579ea596d87561b509cf32f/t/657ad2ce8cc13c7fafefaa10/1702548174638/Reckless-Medium.woff2');
+  font-weight: 100 900;
+}
+
+@font-face {
+font-family: 'Brown Regular';
+src: url('https://static1.squarespace.com/static/6579ea596d87561b509cf32f/t/657ad7d0427d0c4fcf31aa90/1702549456939/BrownLLWeb-Regular.woff2');
+  font-weight: 100 900;
+}
+
+@media screen and (max-width: 767px) {
+  .language {
+    margin-right : 97px;
+    top: 35px;
+    display: none;
+   } 
+  .header-title-logo img {
+    margin-top: 0p;
+}
+  .wrapper{ display: block;}
+  .box {margin: 50px 20px; padding-top: 40px}
+  .wrapper2 h3{
+    font-size: 28px
+  }
+  
+  .fe-block.fe-block-yui_3_17_2_1_1702533453998_17821 {border-left: 0px solid #135c99;
+    padding-left: 0px;}
+.fe-block.fe-block-023c69f83159372ec3ee {border-left: 0px solid #135c99;
+    padding-left: 0px;}
+.fe-block.fe-block-e47816997ce3d058b4ad {border-left: 0px solid #135c99;
+    padding-left: 0px;}
+.fe-block.fe-block-3cbae5f230111d277d8d {border-left: 0px solid #135c99;
+    padding-left: 0px;}
+}
+
+
+
+/* CSS End By raselkabir.me */
+
+/* Verkleinern Sie den Footer-Text auf 75% */
+footer p {
+  font-size: 75% !important;
+}
+
+/* Stile für alle herosection-subheader-Labels */
+.herosection-subheader {
+  font-family: 'Reckless Medium', sans-serif; /* Verwendung der Schriftart Montserrat, mit sans-serif als Fallback */
+  font-weight: 600; /* Stellt den Fettdruck auf 300 ein */
+  font-size: 6.2rem; /* Setzt die Schriftgröße auf 1.4rem */
+  color: white; /* Setzt die Schriftfarbe auf Weiß */ 
+  text-align: center; /* Zentriert den Text */
+}
+
+
+/* Optional: Textfarbe im Submenü beim Überfahren mit der Maus */
+nav [data-content-field="navigation"] .subnav a:hover {
+  color: #ffcc00 !important; /* Passen Sie die Farbe nach Bedarf an */
+}
+/* Stil für Links im Menü */
+.menu li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Stil für das Submenü */
+.menu li ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: transparent; /* Setzt die Hintergrundfarbe des Submenüs auf transparent */
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Hauptnavigationselemente */
+.header-nav-item--folder > a::after {
+  content: "";
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid lightgrey;
+  margin-left: 5px;
+  transition: transform 0.3s ease;
+  position: relative;
+  top: -5px; /* Dreieck nach oben versetzen */
+}
+
+/* Dreieck umdrehen, wenn der Cursor darüber ist */
+.header-nav-item--folder > a:hover::after {
+  transform: rotate(180deg);
+}
+
+/* Unternavigationselemente ausschließen */
+.header-nav-folder-content a::after {
+  content: none;
+}
+
+/* Footer-Styling */
+footer p {
+  margin: 0 !important;
+}
+
+/* Media Query für Bildschirmbreite unter 768px */
+@media screen and (max-width: 767px) {
+  section[data-section-id="648b06c3c5878232243ad466"] .sqs-row {
+    display: flex !important;
+    flex-direction: column-reverse !important;
+  }
+
+}
+
+/* Entfernen von Unterstreichungen für Hyperlinks */
+.sqs-block-html a {
+  background-image: none !important;
+}
+
+/* Entfernen von Unterstreichungen für Überschriften- und Absatz-Links ohne Hintergrundbild */
+h1 a, h2 a, h3 a, h4 a, p a {
+  text-decoration: none !important;
+}
+
+/* Media Query für mobile Geräte und Entfernen des Hamburger-Menüs */
+@media only screen and (pointer: coarse) and (max-width: 1024px), screen and (max-width: 799px) {
+  .header .header-actions, .header .header-actions-action--social {
+    display: flex;
+  }
+  .header .header-title-nav-wrapper {
+    flex: 1 0 67%;
+  }
+}
+
+/* Styling für den Sprachumschalter in der Desktop-Ansicht */
+
+.language a {
+  color: #fff; /* Ändern Sie die Farbe auf Weiß (#fff) */
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+/* Media Query für Bildschirmbreite unter 480px */
+@media screen and (max-width: 480px) {
+  #block-64940b15ad67447fa6375cce p, #block-aed6c0ebef359e716bdc p {
+    text-align: left !important;
+  }
+
+
+  .language a {
+    color: #000;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+
+  #block-yui_3_17_2_1_1691936207617_18979 p, p, h1, h2, h3 {
+    -webkit-hyphens: manual !important;
+    -moz-hyphens: manual !important;
+    -ms-hyphens: manual !important;
+    hyphens: manual !important;
+  }
+}
+
+/* Entfernen von Silbentrennungen für Absätze und Überschriften */
+p, h1, h2, h3 {
+  -webkit-hyphens: manual !important;
+  -moz-hyphens: manual !important;
+  -ms-hyphens: manual !important;
+  hyphens: manual !important;
+}
+
+/* Weitere Anpassungen */
+body {
+  -webkit-hyphens: manual !important;
+  -moz-hyphens: manual !important;
+  -ms-hyphens: manual !important;
+  hyphens: manual !important;
+}
+
+.vertical-line-01 {
+  background: #FFFFFF;
+  width: 2px;
+  height: 80px;
+  margin: 0 auto;
+}
+
+/* Verbreiterung des Abstands zwischen den Navigationstexten im Header */
+.header-nav-item {
+  margin-right: 52px; /* Hier kannst du den gewünschten Abstand einstellen */
+}
+
+/* Verschiebung des gesamten Menütexts im Header nach links */
+.header-nav {
+  margin-right: 100px; /* Hier können Sie den gewünschten Versatz nach links einstellen */
+}
+
+/* Styling für den Zähler */
+.counter {
+  font-size: 36px; /* Schriftgröße anpassen */
+  font-weight: bold; /* Fettschrift */
+  color: #002B67; /* Textfarbe anpassen */
+}
+/* Stile für alle Abschnitts-Labels */
+.section-label {
+  font-family: 'Montserrat', sans-serif; /* Verwendung der Schriftart P2, mit sans-serif als Fallback */
+  font-weight: 600; /* Stellt den Fettdruck auf 600 ein */
+  font-size: 1.3rem; /* Setzt die Schriftgröße auf 1.2rem */
+  color: #0B4F88; /* Setzt die Schriftfarbe auf einen bestimmten Blauton */
+
+
+}
+
+/* Styling für den Sprachumschalter in der mobilen Ansicht */
+@media only screen and (max-width: 799px) {
+  .language a {
+    color: #FFF !important; /* Ändern Sie die Farbe auf Weiß (#fff) */
+  }
+}
+
+/* Ändere die Schriftgröße von h1 nur auf der Startseite auf 3.7 REM */
+body.homepage h1 {
+  font-size: 2.5rem !important;
+}
+/* Ändere die Schriftgröße von h2 nur auf der Startseite auf 3.7 REM */
+body.homepage h2 {
+  font-size: 4.0rem !important;
+}
+/* Ändere die Schriftgröße von h3 nur auf der Startseite auf 3.2 REM */
+body.homepage h3 {
+  font-size: 3.2rem !important;
+}
+
+/* Ändere die Schriftgröße von h3 nur auf der Startseite auf 2.0 REM */
+body.homepage h4 {
+  font-size: 2.0rem !important;
+}
+
+/* Media Query für mobile Geräte und Entfernen des Hamburger-Menüs */
+@media only screen and (max-width: 799px) {
+  /* Ändere die Schriftgröße von h1 auf 1.3rem (doppelt so groß wie die Standardgröße) */
+  body.homepage h1 {
+    font-size: 1.2rem !important;
+  }
+  /* Reduziere die Schriftgröße von h2 auf 1.8rem */
+  body.homepage h2 {
+    font-size: 1.9rem !important;
+  }
+    /* Reduziere die Schriftgröße von h3 auf 2.2rem */
+  body.homepage h3 {
+    font-size: 2.2rem !important;
+  }
+  
+  /* Ändere die Schriftgröße von h3 nur auf der Startseite auf 2.0 REM */
+body.homepage h4 {
+  font-size: 1.8rem !important;
+}
+    .mobile-a1 {
+    font-size: 3.0rem !important; /* Setzt die Schriftgröße auf 2.0 rem für mobile Ansichten */
+  }
+  /* Anpassung der Schriftgröße für .section-label auf Mobilgeräten */
+  .section-label {
+    font-size: 1.1rem; /* Setzt die Schriftgröße auf 0.9rem für Mobilgeräte */
+
+      }
+  /* Anpassung der Schriftgröße für .section-label auf Mobilgeräten */
+  .box-label-header {
+    font-size: 1.0rem; /* Setzt die Schriftgröße auf 0.9rem für Mobilgeräte */
+    
+  } 
+  .services-section .service {
+    font-size: 1.6rem; /* Reduziert die Schriftgröße auf 1.6rem */
+  }
+}
+
+/* Ändern Sie die Breite von Buttons */
+.sqs-block-button-element {
+  width: 200px; /* Ändern Sie die Breite nach Bedarf */
+}
+/* Ersetzen Sie parent-selector durch den tatsächlichen Klassennamen des Elternelements von .services-section */
+.parent-selector {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.services-section {
+  font-family: 'Brown Regular', sans-serif;
+  border-top: 1.1pt solid #CFDDE1;
+  border-bottom: 1.2pt solid #CFDDE1;
+  padding-top: 0.1rem; /* Standardabstand, kann je nach Bedarf angepasst werden */
+  padding-bottom: 0.1rem; /* Standardabstand, kann je nach Bedarf angepasst werden */
+}
+
+.service {
+  display: block;
+  font-size: 2.4rem;
+  font-weight: 500;
+  color: #0B4F88;
+  text-decoration: none;
+  padding: 1rem 0;
+  border-bottom: 1.2pt solid #CFDDE1;
+  text-align: left;
+  /* Übergang hinzufügen */
+  transition: transform 0.3s ease-in-out; /* Dies bestimmt die Geschwindigkeit des Effekts */
+}
+
+.service:last-child {
+  border-bottom: none;
+}
+
+/* Zustand definieren, wenn mit der Maus darüber gefahren wird */
+.service:hover {
+  transform: translateX(10px); /* Dies bewegt den Text nach rechts, wenn mit der Maus darüber gefahren wird */
+}
+
+/* Shadow Box Umrandung für Ablauf Sektion */
+.shadow-box {
+    max-width: 460px; /* Maximal erlaubte Breite der Box */
+    width: 100%; /* Breite der Box auf 100% für kleinere Geräte */
+    height: 265px; /* Höhe der Box */
+    background-color: #ffffff; /* Hintergrundfarbe der Box */
+    margin: 0 auto; /* Zentriert die Box mit gleichen Rändern */
+    border-radius: 10px; /* Runde Ecken */
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1); /* Schatten-Effekt */
+}
+
+/* Shadow Box Umrandung für Ablauf Sektion */
+.shadow-box-checklist {
+    max-width: 900px; /* Maximal erlaubte Breite der Box */
+    width: 140%; /* Breite der Box auf 100% für kleinere Geräte */
+    height: 960px; /* Höhe der Box */
+    background-color: #ffffff; /* Hintergrundfarbe der Box */
+    margin: 0 auto; /* Zentriert die Box mit gleichen Rändern */
+    border-radius: 10px; /* Runde Ecken */
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1); /* Schatten-Effekt */
+}
+
+/* Media Query für mobile Geräte */
+@media (max-width: 480px) {
+    .shadow-box {
+        /* Passt den seitlichen Abstand an */
+        margin-left: 10px; /* Linker Abstand */
+        margin-right: 10px; /* Rechter Abstand */
+    }
+}
+
+/* Apply a custom font family to all h */
+h1, h2, h3, h4 {
+  font-family: 'Reckless Medium', sans-serif;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-auto-rows: 1fr;
+}
+
+.wrapper{
+
+  .box{
+  display: block;
+    height: 80%;
+    
+  }
+}
+.wrapper2{
+  padding-right: 35px;
+  h3{
+    font-size: 28px;
+  }
+}
+
+
+.sqs-video-background-native{
+  .sqs-block-button-element--medium{
+    transition: 0.3s;
+    &:hover{
+      //color: #024883 !important;
+    }
+  }
+}
+@media only screen and (max-width: 767px) {
+ /* .language {
+  display: none;
+}*/
+  .language2{
+    display: block;
+    float: right;
+   
+  }
+ .wrapper{
+   display: block;
+  grid-template-columns: 100% 100%;
+  .box{
+  display: block;
+    width: 80%;
+    height: auto;
+    
+  }
+}
+  .wrapper2 {
+  display: grid;
+  grid-template-columns: 15% 88%;	
+  align-items: center;
+      padding-bottom: 20px;
+  padding-top: 20px;
+  //display: flex;
+    //align-items: center;
+  position: relative;
+  top: auto !important;
+  left: 0;
+  transform: translate(0, 0);
+} 
+  
+}
+
+#mega-menus{
+  .sqs-block-button-element--medium{
+  transition: 0.s;
+  &:hover{
+    color: #024883 !important;
+  }
+}
+}
+ #mega-menus{
+    #mega-menu-3, #mega-menu-4{
+      position: absolute;
+      top: 0;
+    }
+    
+  }
+//Language footer
+.GERMAN-class{
+  [data-section-id="658cb24df1e8d80fd29716ba"]{
+    display: none;
+  }
+}
+.ENGLISH-class{
+  [data-section-id="6579ea596d87561b509cf36b"]{
+    display: none;
+  }
+  .mega-menus{
+    .content-wrapper{
+      
+    }
+  }
+}
+//Html boxes size
+[data-section-id="6581e5112ba79f33dae1c4ef"],
+[data-section-id="658c49b71bd24073f70942fa"]{
+  .content-wrapper{
+    padding-bottom: 0 !important;
+  }
+}
+p.sqsrte-large{
+font-family: 'Reckless Medium', sans-serif !important; line-height: 3.4rem !important; 
+  }
+ 
+@media only screen and (max-width: 767px) {
+ 
+p.sqsrte-large{
+font-size: 2.2rem !important; line-height: 2.5rem !important; 
+}
+
+  h3{
+font-size: 1.6rem !important; 
+}
+ 
+    h4{
+font-size: 1.2rem !important; 
+}
+ 
+}
+  .text-area-custom a{
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+  }
+
+
+
+
+@media only screen and (max-width: 767px){
+   //Ancor link code
+  [data-section-id="659cfdc7de64f943093ac6d1"],
+  [data-section-id="65b248e94ea095539dbf0c07"]
+  {
+    h1{
+      font-size: 32px;
+      padding: 20px;
+      line-height: 40px;
+    }
+  }
+}.herosection-subheader {
+  font-family: 'Reckless Medium', sans-serif;
+  font-weight: 600;
+  font-size: clamp(2.8rem, 6vw, 6.2rem);
+  line-height: 1.2;
+  color: white;
+  text-align: center;
+  padding: 0 20px;
+}
